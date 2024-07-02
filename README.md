@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Soheib</h1>
 <h3 align="center">A passionate software engineering and fullstack developer from Algeria</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Next js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/souheibdaoudi](https://github.com/souheibdaoudi)
+- 👨‍💻 All of my projects are available at [https://github.com/souheibdaoudi](https://github.com/souheibdaoudi?tab=repositories))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
